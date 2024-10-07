@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50940090591"
-global.ownername = "༄yannd᭄-bot_ूाीू"
+global.ownernomer = "50948865791"
+global.ownername = "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
 global.ytname = "YT: KermHackTools"
 global.socialm = "GitHub: Kgtech-cmr"
 global.location = "Cameroon, douala, yaoundé"
 
-global.ownernumber = '50940090591'  //creator number
-global.ownername = '༄yannd᭄-bot_ूाीू' //creatoe name
+global.ownernumber = '50948865791  //creator number
+global.ownername = '🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑' //creatoe name
 global.botname = 'ད𝙆𝙚𝙧𝙢𝘽𝙪𝙜 𝙑2༒' //name of the bot
 
 //sticker details
